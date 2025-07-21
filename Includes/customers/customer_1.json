@@ -1,0 +1,10 @@
+{
+  "customer_id": 1,
+  "email": "abigailsimon@example.net",
+  "profile": {
+    "name": "Jamie Benitez",
+    "age": 66,
+    "email": "abigailsimon@example.net"
+  },
+  "update": "2025-07-04T08:28:19.707520"
+}
